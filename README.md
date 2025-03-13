@@ -24,9 +24,10 @@ I'm Sarthak Chaudhary, and I'm learning DevOps to become a DevOps engineer, auto
 ## Resources
 
 * Youtube
+* Gemini
+* Google
 
 ## Connect with Me
 
 * https://www.linkedin.com/in/sarthak-chaudhary-a0aa62322/
 * https://x.com/Sarthak85710768
-* [Your Blog Link]
