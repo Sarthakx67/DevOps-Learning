@@ -18,7 +18,7 @@ I'm Sarthak Chaudhary, and I'm learning DevOps to become a DevOps engineer, auto
 ## Topics Covered
 
 * Basic Python / Java / C Programming
-* Linux
+* Linux Fundamentals
 
 ## Resources
 
